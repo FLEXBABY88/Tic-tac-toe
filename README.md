@@ -1,2 +1,3 @@
 # Tic-tac-toe
-Created with CodeSandbox
+game created with CodeSandbox .
+small game created using javascript and react . 
